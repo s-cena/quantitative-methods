@@ -1,2 +1,2 @@
 # methods practice
-Quantitative Methods in Political Science, practice repository
+general repository for Quantitative Methods in Political Science
